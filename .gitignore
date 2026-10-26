@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!Assets/
+!Assets/Scripts/
+!Assets/Scripts/*.cs
+!Assets/Applied/
+!Assets/Applied/Scripts/
+!Assets/Applied/Scripts/*.cs
